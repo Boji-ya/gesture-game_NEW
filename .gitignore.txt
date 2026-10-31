@@ -1,0 +1,16 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]serSettings/
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+
+# Unity Version Control
+.plastic/

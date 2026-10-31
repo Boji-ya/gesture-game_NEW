@@ -1,0 +1,16 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl tripo_mat_2680189a-6cf9-4f7b-8613-99db7ea4661f
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd mythical_bird_3d_model_basecolor.JPEG
+map_Ns mythical_bird_3d_model_roughness.JPEG
+map_Pr mythical_bird_3d_model_roughness.JPEG
+map_refl mythical_bird_3d_model_metallic.JPEG
+map_Pm mythical_bird_3d_model_metallic.JPEG
+map_Bump -bm 1.000000 mythical_bird_3d_model_normal.JPEG
